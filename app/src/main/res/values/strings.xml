@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">智慧城市</string>
+    <string name="main_page">首页</string>
+    <string name="all_service">全部服务</string>
+    <string name="party_building">智慧党建</string>
+    <string name="new_info">新闻</string>
+    <string name="person_info">个人中心</string>
+</resources>
